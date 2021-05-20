@@ -22,3 +22,26 @@
 	<string.h>
 	"ArrayEmployees.h"
 
+1621468985 source:c:\users\octav\desktop\trabajo practico 2\arrayemployees.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1621468985 c:\users\octav\desktop\trabajo practico 2\arrayemployees.h
+
+1621469241 source:c:\users\octav\desktop\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1621468985 c:\users\octav\desktop\trabajo practico 2\utn.h
+
+1621469261 source:c:\users\octav\desktop\trabajo practico 2\utn.c
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

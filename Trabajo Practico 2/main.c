@@ -19,7 +19,6 @@ int informarPromedios(Employee* list,int tamList);
 
 
 int main(void) {
-	setbuf(stdout, NULL);
 	Employee arrayEmployes[TAM];
 	int id = 0;
 	int order;
@@ -87,11 +86,19 @@ int main(void) {
 						}else
 						{
 							printf("No hay empleados para mostrar\n");
+							system("pause");
 						}
 						break;
 					case 2:
-						informarPromedios(arrayEmployes, TAM);
-						system("pause");
+					    if(contadorEmpleados > 0)
+                        {
+                          	informarPromedios(arrayEmployes, TAM);
+                            system("pause");
+                        }else
+                        {
+                            printf("No hay empleados para informar el promedio\n");
+                            system("pause");
+                        }
 						break;
 
 					case 3:
