@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1621464695 source:c:\users\octav\desktop\trabajos practicos\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1621464492 c:\users\octav\desktop\trabajos practicos\trabajopractico2\arrayemployees.h
+
+1621464507 c:\users\octav\desktop\trabajos practicos\trabajopractico2\utn.h
+
+1621461818 source:c:\users\octav\desktop\trabajos practicos\trabajopractico2\utn.c
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621464577 source:c:\users\octav\desktop\trabajos practicos\trabajopractico2\arrayemployees.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
