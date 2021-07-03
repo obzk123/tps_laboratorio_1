@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1625266940 source:c:\users\octav\desktop\trabajos practicos\trabajo practico 4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1624923568 c:\users\octav\desktop\trabajos practicos\trabajo practico 4\linkedlist.h
+
+1625267160 source:c:\users\octav\desktop\trabajos practicos\trabajo practico 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"autos.h"
+
+1625267065 source:c:\users\octav\desktop\trabajos practicos\trabajo practico 4\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+
+1625266922 c:\users\octav\desktop\trabajos practicos\trabajo practico 4\autos.h
+	"LinkedList.h"
+
